@@ -8,7 +8,7 @@ const quotes = [
     author: "Franklin D. Roosevelt"
   },
   {
-    text: "Do what you can, with what you have, where you are. You can make it Apon",
+    text: "Do what you can, with what you have, where you are. You can make it ",
     author: "Raiyan Ahmed"
   },
   {
